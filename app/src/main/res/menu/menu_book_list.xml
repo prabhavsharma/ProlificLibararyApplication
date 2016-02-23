@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="android.prabhav.com.prolificlibrary.Activities.ListBookActivity">
+
+
+    <item
+        android:id="@+id/delete_all_books"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:showAsAction="always"
+        android:title="@string/delete_all" />
+
+</menu>

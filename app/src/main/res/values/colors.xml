@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="off_white">#E7E2DC</color>
+    <color name="bluish_green">#21D19F</color>
+    <color name="grey">#5C635F</color>
+    <color name="white">#FFFFFF</color>
+    <color name = "blue">#536DFE</color>
+    <color name = "brown">#795548</color>
+    <color name = "pink">#F44</color>
+   <color name ="light_blue">#9FA8DA</color>
+    <color name ="ultra_light">#C5CAE9</color>
+  <color name = "Amber">#FFC107</color>
+    
+</resources>

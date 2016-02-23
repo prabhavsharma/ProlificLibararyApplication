@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyBooks Library</string>
+    <string name="checkout_button">CheckOut</string>
+    <string name="add_book">Add Book</string>
+    <string name="delete_book">Delete Book</string>
+    <string name="delete_all">Delete All</string>
+    <string name="book_title">Book Title</string>
+    <string name="author">Author</string>
+    <string name="fab_add">Add</string>
+    <string name="publisher">Publisher</string>
+    <string name="categories">Categories</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="done_button">Done</string>
+    <string name="disclaimer">*All Fields are compulsory</string>
+    <string name="warning_dialog_message">Are you sure you want to leave?</string>
+    <string name="warning_dialog_title">Book Not Added</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+    <string name="unable_to_fetch">Unable to fetch Data!</string>
+    <string name="no_connection">No Network Connection!</string>
+    <string name="delete_success">Successfully Deleted!</string>
+    <string name="delete_failed">Delete Request Failed!</string>
+    <string name="enter_name">Enter Your name?</string>
+    <string name="checkout_success">Successfully Checked Out!</string>
+    <string name="checkout_failed">CheckOut Failed!</string>
+    <string name="update_book">Update Book</string>
+    <string name="back_button">Back</string>
+    <string name="update_button">update</string>
+    <string name="update_book_success">Book Updated Successfully</string>
+    <string name="update_book_failed">Book Update Failed!</string>
+    <string name = "action_delete">Delete</string>
+    <string name="fab_edit">Edit</string>
+     <string name = "fl_booktitle">book title</string>
+    <string name="fl_author">Author Edit text</string>
+    <string name="fl_publisher">Publisher Edit Text</string>
+    <string name="fl_categories">Categories </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_book">AddBookActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_update_book">UpdateBookActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+</resources>
